@@ -40,8 +40,3 @@ Un compte rendu au format PDF peut aussi être présent dans ce dossier (`*_MLP_
 
 Les notebooks téléchargent les jeux de données au premier lancement (MNIST / CIFAR-10 via Keras ; Breast Cancer souvent via scikit-learn ; Boston peut nécessiter une source compatible avec votre version des libs — suivre les imports dans le notebook).
 
----
-
-## Remarque sur le PDF
-
-Certaines pages du document peuvent porter une ancienne mention « TP N° 1 » en en-tête ; le fichier **`TP2-TDIA2.pdf`** correspond bien au TP MLP traité par ces quatre exercices.
